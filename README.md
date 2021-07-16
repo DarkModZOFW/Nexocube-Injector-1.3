@@ -1,4 +1,4 @@
-# I'm releasing my Black Ops II Injector (English)
+# I'm releasing Nexocube/Rmabo6Glaz Black Ops II Injector (English)
 
 Don't abuse it online, it's already ruined. have fun in custom games with your friends.
 
