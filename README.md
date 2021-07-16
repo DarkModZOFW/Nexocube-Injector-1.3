@@ -47,7 +47,7 @@ e.g: "BO2_WiiU_Mod_List\512_Sniper_Lobby\maps\mp\develoment_dvars.gsc" (target m
 
 
 
-# Je release mon Injecteur Black Ops II (Français)
+# Je release l'Injecteur Black Ops II De Nexocube/Rambo6Glaz (Français)
 
 Abusez pas de l'injecteur en multi, c'est déjà rempli de hacker. Amusez vous plutôt avec vos amis en partie perso.
 
